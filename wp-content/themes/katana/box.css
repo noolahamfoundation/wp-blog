@@ -1,0 +1,89 @@
+
+	
+.title{
+	margin: 0 0 0 0px;
+	padding: 0px 0px 0px 0px;
+
+}
+
+
+
+.sidim{
+
+	float:left;
+	margin:12px 10px 5px 0px;
+}
+	
+.boximage img{
+	border:1px solid #d29903;
+}
+
+.boxtitle{
+
+}
+.boxtitle h2{
+	font-size: 18px ;
+
+}
+.boxtitle h2 a, .boxtitle h2 a:link, .boxtitle h2 a:visited  {
+	color:#924608;
+	background-color: transparent;
+	}
+.boxtitle h2 a:hover  {
+	color: #228fc4;
+	background-color: transparent;
+	}	
+
+.box {
+	width:308px;
+	margin: 10px 10px 5px 0px;
+	height:100%;
+	color:#666;
+	font: 13px Tahoma, century gothic,Arial,verdana, sans-serif;
+	float:left;
+	background:#fff;
+	border:1px solid #ddd;
+
+
+	}
+.boxcover{
+
+	padding:10px;
+
+}
+.boxinfo{
+	width:308px;
+	height:30px;
+	background:#523211;
+	overflow:hidden;
+	position:relative;
+
+}
+.boxmore{
+	float:left;
+	width:100px;
+	margin:5px 0px 5px 10px;
+	display:inline;
+}
+.boxmore a:link, .boxmore a:hover,.boxmore a:visited{
+	color:#fff;
+}
+.boxcoms{
+
+	float:right;
+	width:100px;
+	margin:5px 10px 5px 10px;
+	display:inline;
+	text-align:right;
+	
+}
+.boxcoms a:link, .boxcoms a:hover,.boxcoms a:visited{
+	color:#fff;
+}
+.videopost{
+	margin-bottom:10px;
+}
+.videopost embed{
+ width:260px;
+ height:200px;
+}
